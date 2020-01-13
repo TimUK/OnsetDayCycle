@@ -1,0 +1,10 @@
+{
+	"author": "Tim",
+	"version": "1.0",
+	"server_scripts": [
+		"server/daycycle.server.lua"
+	],
+	"client_scripts":[
+		"client/daycycle.client.lua"
+	]
+}
